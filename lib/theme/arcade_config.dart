@@ -83,6 +83,6 @@ const arcadeConfig = ArcadeConfig(
   fallDown: false,
   tip1Id: 'mirrormazemoverpretzel',
   tip2Id: 'mirrormazemovermuffin',
-  tip1Label: '💛 Buy me a pretzel',
-  tip2Label: '💛 Buy me a muffin',
+  tip1Label: '💛 Mirror Maze Mover pretzel',
+  tip2Label: '💛 Mirror Maze Mover muffin',
 );
